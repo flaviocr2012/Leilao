@@ -10,6 +10,7 @@ O sistema simula um leilão, onde é possível buscar informações do usuário,
 * Spring Security
 * Maven
 * Java
+* H2
 
 
 
